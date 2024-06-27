@@ -7,7 +7,7 @@ This repository contains a list of all the projects completed during my manual t
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-| Project 1    | Tested a web application for functionality and usability. | Manual Testing, Test Plan, Testcases, JIRA |
+| Project 1    | Tested a web application for functionality and usability. | Manual Testing, Test Plan, Testcases, Excel,Jmeter, Postman |
 
 ## Contributing
 
