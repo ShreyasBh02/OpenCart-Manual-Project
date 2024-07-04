@@ -7,7 +7,7 @@ This repository contains a list of all the projects completed during my manual t
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-|OpenCart   | Tested a web application for functionality and usability. | Manual Testing, Test Plan, Testcases, Excel,Jmeter, Postman |
+|OpenCart   | Tested a web application for functionality and usability. | Manual Testing, Test Plan, Testcases, Excel,Apache Jmeter, Postman |
 
 
 
